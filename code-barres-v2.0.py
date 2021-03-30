@@ -166,7 +166,7 @@ def lectureCode(image):
         code_decimal += str(C.index(i))
     return premiere_valeur + code_decimal
 
-### Le main
+### Le main Q
 
 def main():
     print('Si vous voulez decoder un code barre, taper 1')
